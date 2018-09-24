@@ -1,0 +1,36 @@
+html, body {
+  /* height: 100%; */
+  margin: 0;
+  padding: 0;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#fullDiv{
+height: 100vh;
+width: 100vh;
+  padding: 25% 40%;
+  background: #5E6AF2;
+  position: fixed;
+}
+
+#my-button{
+  /* align-items: center; */
+  height: 50px;
+  width: 300px;
+  padding: 10px 10px;
+  font-size: 17px;
+  font-family: 'Roboto Mono', monospace;
+  /* font-weight: bold; */
+  background: #17BB44;
+  color: #FFFFFF;
+  border: none;
+  position: relative;
+
+  border-radius: 3px;
+  outline: none;
+}
+
+#image-div{
+  padding-top: 10px;
+  padding-left: 10px;
+}
